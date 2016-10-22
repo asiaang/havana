@@ -7,6 +7,7 @@ name = Uppercase;
 }
 );
 date = "2016-10-16 21:02:29 +0000";
+designer = "Joanna Angulska";
 familyName = "Havana";
 featurePrefixes = (
 {
